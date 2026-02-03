@@ -26,3 +26,15 @@ Drama and international genres appear most frequently, showing consistent audien
 Most movies fall between 80 to 120 minutes, indicating standard feature-length content performs best.
 
 Duration remains consistent across rating categories, suggesting Netflix maintains a uniform content strategy.
+
+# Business Recommendations
+
+Invest more in original TV series to improve subscriber retention
+
+Expand localized content in underrepresented regions
+
+Focus production on high-performing genres like drama and international stories
+
+Maintain standard movie durations to match viewer behavior
+
+Strengthen partnerships with recurring directors and actors
