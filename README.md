@@ -1,6 +1,15 @@
 # Netflix-Content-Strategy-Analysis
 This project analyzes Netflix’s global content catalog to uncover patterns in movies, TV shows, genres, countries, and release trends. The goal is to generate data-driven insights that help Netflix decide what type of content to produce and how to expand strategically across markets.
 
+# Dataset
+
+8,797 titles
+
+Movies and TV Shows
+
+Release years from 1925 to 2021
+
+Attributes include cast, director, country, genre, rating, and duration
 # Tools & Skills Used
 
 Python
