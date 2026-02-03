@@ -38,3 +38,17 @@ Focus production on high-performing genres like drama and international stories
 Maintain standard movie durations to match viewer behavior
 
 Strengthen partnerships with recurring directors and actors
+
+# Key Questions Answered
+
+Is Netflix focusing more on Movies or TV Shows?
+
+How has Netflix’s content library grown over time?
+
+Which countries contribute most content?
+
+What genres are most popular?
+
+What movie duration performs best?
+
+What strategic opportunities exist for growth?
